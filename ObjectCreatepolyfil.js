@@ -14,3 +14,4 @@ function ObjectCreatePolyfil(fromObj){
 
 const obj2 = ObjectCreatePolyfil(obj1)
 console.log(obj2.name)
+console.log(obj2.getName());
